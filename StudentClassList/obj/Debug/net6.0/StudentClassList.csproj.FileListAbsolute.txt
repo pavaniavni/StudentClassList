@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\bin\Debug\net6.0\StudentClassList.exe
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\bin\Debug\net6.0\StudentClassList.deps.json
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\bin\Debug\net6.0\StudentClassList.runtimeconfig.json
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\bin\Debug\net6.0\StudentClassList.dll
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\bin\Debug\net6.0\ref\StudentClassList.dll
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\bin\Debug\net6.0\StudentClassList.pdb
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\obj\Debug\net6.0\StudentClassList.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\obj\Debug\net6.0\StudentClassList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\obj\Debug\net6.0\StudentClassList.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\obj\Debug\net6.0\StudentClassList.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\obj\Debug\net6.0\StudentClassList.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\obj\Debug\net6.0\StudentClassList.dll
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\obj\Debug\net6.0\ref\StudentClassList.dll
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\obj\Debug\net6.0\StudentClassList.pdb
+C:\Users\Pavani\source\repos\StudentClassList\StudentClassList\obj\Debug\net6.0\StudentClassList.genruntimeconfig.cache
